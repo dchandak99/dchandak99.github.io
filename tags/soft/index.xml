@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>soft | Devansh Chandak</title>
+    <link>https://dchandak99.github.io/tags/soft/</link>
+      <atom:link href="https://dchandak99.github.io/tags/soft/index.xml" rel="self" type="application/rss+xml" />
+    <description>soft</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Devansh Chandak</copyright><lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dchandak99.github.io/img/icon.png</url>
+      <title>soft</title>
+      <link>https://dchandak99.github.io/tags/soft/</link>
+    </image>
+    
+    <item>
+      <title>SAT Solver</title>
+      <link>https://dchandak99.github.io/projects/sat/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/sat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Form and Survey Management</title>
+      <link>https://dchandak99.github.io/projects/ssl/</link>
+      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/ssl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Reconstruction and Compression</title>
+      <link>https://dchandak99.github.io/projects/image_rec_comp/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/image_rec_comp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

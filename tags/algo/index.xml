@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>algo | Devansh Chandak</title>
+    <link>https://dchandak99.github.io/tags/algo/</link>
+      <atom:link href="https://dchandak99.github.io/tags/algo/index.xml" rel="self" type="application/rss+xml" />
+    <description>algo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Devansh Chandak</copyright><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dchandak99.github.io/img/icon.png</url>
+      <title>algo</title>
+      <link>https://dchandak99.github.io/tags/algo/</link>
+    </image>
+    
+    <item>
+      <title>Distributed Spanning Tree Protocol</title>
+      <link>https://dchandak99.github.io/projects/spanning_tree/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/spanning_tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAT Solver</title>
+      <link>https://dchandak99.github.io/projects/sat/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/sat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Betting Against Beta</title>
+      <link>https://dchandak99.github.io/projects/bab/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/bab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PAIRS</title>
+      <link>https://dchandak99.github.io/projects/pairs/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/pairs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Memory Allocator</title>
+      <link>https://dchandak99.github.io/projects/efficient/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/efficient/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Devansh Chandak</title>
+    <link>https://dchandak99.github.io/projects/</link>
+      <atom:link href="https://dchandak99.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Devansh Chandak</copyright><lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dchandak99.github.io/img/icon.png</url>
+      <title>Projects</title>
+      <link>https://dchandak99.github.io/projects/</link>
+    </image>
+    
+    <item>
+      <title>Buffer Overflow Attacks and Defenses</title>
+      <link>https://dchandak99.github.io/projects/buf/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/buf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>File System Implementation</title>
+      <link>https://dchandak99.github.io/projects/file-system/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/file-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Copy-on-Write Fork in xv6</title>
+      <link>https://dchandak99.github.io/projects/cow/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/cow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Memory Manager</title>
+      <link>https://dchandak99.github.io/projects/mem-manager/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/mem-manager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduler in xv6</title>
+      <link>https://dchandak99.github.io/projects/xv6-scheduler/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/xv6-scheduler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Linux Shell</title>
+      <link>https://dchandak99.github.io/projects/shell/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis by BERT</title>
+      <link>https://dchandak99.github.io/projects/bert_imdb/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/bert_imdb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Spanning Tree Protocol</title>
+      <link>https://dchandak99.github.io/projects/spanning_tree/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/spanning_tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAT Solver</title>
+      <link>https://dchandak99.github.io/projects/sat/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/sat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying NLP techniques to Time Series Analysis for Stock Futures</title>
+      <link>https://dchandak99.github.io/projects/lstm/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/lstm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Betting Against Beta</title>
+      <link>https://dchandak99.github.io/projects/bab/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/bab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PAIRS</title>
+      <link>https://dchandak99.github.io/projects/pairs/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/pairs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Form and Survey Management</title>
+      <link>https://dchandak99.github.io/projects/ssl/</link>
+      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/ssl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCA on MNIST data</title>
+      <link>https://dchandak99.github.io/projects/mnist/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/mnist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fruit Image Generation &amp; PCA</title>
+      <link>https://dchandak99.github.io/projects/fruit/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/fruit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Memory Allocator</title>
+      <link>https://dchandak99.github.io/projects/efficient/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Reconstruction and Compression</title>
+      <link>https://dchandak99.github.io/projects/image_rec_comp/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/image_rec_comp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non Parametric Estimation &amp; Cross Validation</title>
+      <link>https://dchandak99.github.io/projects/cross/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spam Email CLassification</title>
+      <link>https://dchandak99.github.io/projects/spam/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/spam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Screen Printing</title>
+      <link>https://dchandak99.github.io/projects/screen_print/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/screen_print/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

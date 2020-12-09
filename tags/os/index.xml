@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>os | Devansh Chandak</title>
+    <link>https://dchandak99.github.io/tags/os/</link>
+      <atom:link href="https://dchandak99.github.io/tags/os/index.xml" rel="self" type="application/rss+xml" />
+    <description>os</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Devansh Chandak</copyright><lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dchandak99.github.io/img/icon.png</url>
+      <title>os</title>
+      <link>https://dchandak99.github.io/tags/os/</link>
+    </image>
+    
+    <item>
+      <title>File System Implementation</title>
+      <link>https://dchandak99.github.io/projects/file-system/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/file-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Copy-on-Write Fork in xv6</title>
+      <link>https://dchandak99.github.io/projects/cow/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/cow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Memory Manager</title>
+      <link>https://dchandak99.github.io/projects/mem-manager/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/mem-manager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduler in xv6</title>
+      <link>https://dchandak99.github.io/projects/xv6-scheduler/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/xv6-scheduler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Linux Shell</title>
+      <link>https://dchandak99.github.io/projects/shell/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/shell/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
