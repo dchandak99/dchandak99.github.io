@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>comp | Devansh Chandak</title>
+    <link>https://dchandak99.github.io/tags/comp/</link>
+      <atom:link href="https://dchandak99.github.io/tags/comp/index.xml" rel="self" type="application/rss+xml" />
+    <description>comp</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Devansh Chandak</copyright><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dchandak99.github.io/img/icon.png</url>
+      <title>comp</title>
+      <link>https://dchandak99.github.io/tags/comp/</link>
+    </image>
+    
+    <item>
+      <title>Sclp compiler</title>
+      <link>https://dchandak99.github.io/projects/sclp/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/sclp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>https://dchandak99.github.io/tags/ml/</link>
       <atom:link href="https://dchandak99.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
     <description>ML</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Devansh Chandak</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Devansh Chandak</copyright><lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dchandak99.github.io/img/icon.png</url>
       <title>ML</title>
       <link>https://dchandak99.github.io/tags/ml/</link>
     </image>
+    
+    <item>
+      <title>Pure Numpy Implementation of CNN</title>
+      <link>https://dchandak99.github.io/projects/cnn-numpy/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/cnn-numpy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sentiment Analysis by BERT</title>

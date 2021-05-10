@@ -5,12 +5,20 @@
     <link>https://dchandak99.github.io/tags/soft/</link>
       <atom:link href="https://dchandak99.github.io/tags/soft/index.xml" rel="self" type="application/rss+xml" />
     <description>soft</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Devansh Chandak</copyright><lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Devansh Chandak</copyright><lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dchandak99.github.io/img/icon.png</url>
       <title>soft</title>
       <link>https://dchandak99.github.io/tags/soft/</link>
     </image>
+    
+    <item>
+      <title>Restaurant Management System</title>
+      <link>https://dchandak99.github.io/projects/rest/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://dchandak99.github.io/projects/rest/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SAT Solver</title>
